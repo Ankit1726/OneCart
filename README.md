@@ -36,5 +36,5 @@ This project demonstrates a complete **end-to-end e-commerce solution**:
 
 ---
 ### Live Link: https://ecom-whma.onrender.com
-### Live Link: https://onecart-3njn.onrender.com (admin)
+### Admins Live Link: https://ecom-ojft.onrender.com
 
