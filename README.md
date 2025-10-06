@@ -36,4 +36,5 @@ This project demonstrates a complete **end-to-end e-commerce solution**:
 
 ---
 ### Live Link: https://onecart-sqad.onrender.com
+### Live Link: https://onecart-11t2.onrender.com(admin)
 
