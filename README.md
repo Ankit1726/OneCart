@@ -34,7 +34,4 @@ This project demonstrates a complete **end-to-end e-commerce solution**:
 **AI Integration:** Recommendation Engine  
 **Deployment:** Render (Free Hosting)  
 
----
-### Live Link: https://ecom-whma.onrender.com
-### Admins Live Link: https://ecom-ojft.onrender.com
 
