@@ -35,6 +35,6 @@ This project demonstrates a complete **end-to-end e-commerce solution**:
 **Deployment:** Render (Free Hosting)  
 
 ---
-### Live Link: https://onecart-sqad.onrender.com
+### Live Link: https://ecom-whma.onrender.com
 ### Live Link: https://onecart-3njn.onrender.com (admin)
 
